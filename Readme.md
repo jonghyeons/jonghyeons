@@ -1,7 +1,30 @@
 ### 👋 Hi there 👋
 ### I'm backend engineer using <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/></a> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jonghyeons&count_private=true&show_icons=true&theme=tokyonight&hide=stars)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonghyeons&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+## Tech Stack:
+![Golang](https://img.shields.io/badge/-Golang-555?style=flat&logo=go)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-555?style=flat&logo=javascript)\
+![Gin](https://img.shields.io/badge/-Gin-555?style=flat&logo=gin)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-555?style=flat&logo=node.js)\
+![Ms-sql](https://img.shields.io/badge/-Mssql-555?style=flat&logo=microsoft-sql-server)&nbsp;
+![Mysql](https://img.shields.io/badge/-Mysql-555?style=flat&logo=mysql)&nbsp;
+![Redis](https://img.shields.io/badge/-Redis-555?style=flat&logo=redis)\
+![Git](https://img.shields.io/badge/-Git-555?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-555?style=flat&logo=github)\
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-555?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Goland](https://img.shields.io/badge/-Goland-555?style=flat&logo=goland)
 
-
-
+## GitHub Activity Graph:
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=jonghyeons&count_private=true&show_icons=true&theme=tokyonight&hide=stars"/> 
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonghyeons&theme=tokyonight"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/jonghyeons/jonghyeons/blob/output/github-contribution-grid-snake.svg"/>
+    </td>
+  </tr>
+</table>
