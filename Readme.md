@@ -30,8 +30,12 @@
   </tr>
   <tr>
     <td>
-      <img src="https://github.com/jonghyeons/jonghyeons/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only"/>
-      <img src="https://github.com/jonghyeons/jonghyeons/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only"/>
+      <a href="https://github.com/jonghyeons#gh-light-mode-only">
+        <img src="https://raw.githubusercontent.com/jonghyeons/jonghyeons/output/github-contribution-grid-snake-default.svg#gh-light-mode-only"/>
+      </a>
+      <a href="https://github.com/jonghyeons#gh-dark-mode-only">
+        <img src="https://raw.githubusercontent.com/jonghyeons/jonghyeons/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
+      </a>
     </td>
   </tr>
 </table>
