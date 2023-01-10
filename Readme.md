@@ -18,13 +18,20 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=jonghyeons&count_private=true&show_icons=true&theme=tokyonight&hide=stars"/> 
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonghyeons&theme=tokyonight"/>
+      <a href="https://github.com/jonghyeons#gh-light-mode-only">
+        <img src="https://github-readme-stats.vercel.app/api?username=jonghyeons&count_private=true&show_icons=true&hide=stars"/> 
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonghyeons"/>
+      </a>
+      <a href="https://github.com/jonghyeons#gh-dark-mode-only">
+        <img src="https://github-readme-stats.vercel.app/api?username=jonghyeons&count_private=true&show_icons=true&theme=tokyonight&hide=stars"/> 
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonghyeons&theme=tokyonight"/>
+      </a>
     </td>
   </tr>
   <tr>
     <td>
-      <img src="https://github.com/jonghyeons/jonghyeons/blob/output/github-contribution-grid-snake.svg"/>
+      <img src="https://github.com/jonghyeons/jonghyeons/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only"/>
+      <img src="https://github.com/jonghyeons/jonghyeons/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only"/>
     </td>
   </tr>
 </table>
