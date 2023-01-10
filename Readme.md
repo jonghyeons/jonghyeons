@@ -28,6 +28,7 @@
       </a>
     </td>
   </tr>
+  <tr></tr>
   <tr>
     <td>
       <a href="https://github.com/jonghyeons#gh-light-mode-only">
