@@ -19,12 +19,12 @@
   <tr>
     <td>
       <a href="https://github.com/jonghyeons#gh-light-mode-only">
-        <img src="https://github-readme-stats.vercel.app/api?username=jonghyeons&count_private=true&show_icons=true&hide=stars"/> 
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonghyeons"/>
+        <img src="https://github-readme-stats-jonghyeons.vercel.app/api?username=jonghyeons&count_private=true&show_icons=true&hide=stars"/> 
+        <img src="https://github-readme-stats-jonghyeons.vercel.app/api/top-langs/?username=jonghyeons"/>
       </a>
       <a href="https://github.com/jonghyeons#gh-dark-mode-only">
-        <img src="https://github-readme-stats.vercel.app/api?username=jonghyeons&count_private=true&show_icons=true&theme=tokyonight&hide=stars"/> 
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonghyeons&theme=tokyonight"/>
+        <img src="https://github-readme-stats-jonghyeons.vercel.app/api?username=jonghyeons&count_private=true&show_icons=true&theme=tokyonight&hide=stars"/> 
+        <img src="https://github-readme-stats-jonghyeons.vercel.app/api/top-langs/?username=jonghyeons&theme=tokyonight&layout=compact"/>
       </a>
     </td>
   </tr>
