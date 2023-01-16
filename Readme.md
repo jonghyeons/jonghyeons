@@ -20,7 +20,7 @@
     <td>
       <a href="https://github.com/jonghyeons#gh-light-mode-only">
         <img style="width:55%" src="https://github-readme-stats-jonghyeons.vercel.app/api?username=jonghyeons&count_private=true&show_icons=true&hide=stars"/> 
-        <img src="https://github-readme-stats-jonghyeons.vercel.app/api/top-langs/?username=jonghyeons&layout=compact"/>
+        <img src="https://github-readme-stats-jonghyeons.vercel.app/api/top-langs/?username=jonghyeons&layout=compact&hide=html"/>
       </a>
       <a href="https://github.com/jonghyeons#gh-dark-mode-only">
         <img style="width:55%" src="https://github-readme-stats-jonghyeons.vercel.app/api?username=jonghyeons&count_private=true&show_icons=true&theme=tokyonight&hide=stars"/> 
