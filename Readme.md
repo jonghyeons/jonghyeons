@@ -12,7 +12,7 @@
 ![Redis](https://img.shields.io/badge/-Redis-555?style=flat&logo=redis)\
 ![AWS](https://img.shields.io/badge/-AWS-555?logo=amazon)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-555?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-555?style=flat&logo=github)\
+![GitHub](https://img.shields.io/badge/-GitHub-555?style=flat&logo=github)
 
 
 ## GitHub Activity Graph:
