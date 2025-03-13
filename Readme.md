@@ -5,14 +5,15 @@
 ![Golang](https://img.shields.io/badge/-Golang-555?style=flat&logo=go)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-555?style=flat&logo=javascript)\
 ![Gin](https://img.shields.io/badge/-Gin-555?style=flat&logo=gin)&nbsp;
+![Fiber](https://img.shields.io/badge/-Fiber-555?logo=go)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-555?style=flat&logo=node.js)\
 ![Ms-sql](https://img.shields.io/badge/-Mssql-555?style=flat&logo=microsoft-sql-server)&nbsp;
 ![Mysql](https://img.shields.io/badge/-Mysql-555?style=flat&logo=mysql)&nbsp;
 ![Redis](https://img.shields.io/badge/-Redis-555?style=flat&logo=redis)\
+![AWS](https://img.shields.io/badge/-AWS-555?logo=amazon)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-555?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-555?style=flat&logo=github)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-555?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Goland](https://img.shields.io/badge/-Goland-555?style=flat&logo=goland)
+
 
 ## GitHub Activity Graph:
 <table>
