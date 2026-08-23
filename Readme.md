@@ -1,43 +1,78 @@
-### 👋 Hi there 👋
-### I'm backend engineer using <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/></a> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>
+# Hi, I'm Jonghyeon 👋
 
-## Tech Stack:
-![Golang](https://img.shields.io/badge/-Golang-555?style=flat&logo=go)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-555?style=flat&logo=javascript)\
-![Gin](https://img.shields.io/badge/-Gin-555?style=flat&logo=gin)&nbsp;
-![Fiber](https://img.shields.io/badge/-Fiber-555?logo=go)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-555?style=flat&logo=node.js)\
-![Ms-sql](https://img.shields.io/badge/-Mssql-555?style=flat&logo=microsoft-sql-server)&nbsp;
-![Mysql](https://img.shields.io/badge/-Mysql-555?style=flat&logo=mysql)&nbsp;
-![Redis](https://img.shields.io/badge/-Redis-555?style=flat&logo=redis)\
-![AWS](https://img.shields.io/badge/-AWS-555?logo=amazon)&nbsp;
-![Git](https://img.shields.io/badge/-Git-555?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-555?style=flat&logo=github)
+### Backend Engineer
 
+I build backend services with **Go**, with a focus on high-performance and reliable systems.
 
-## GitHub Activity Graph:
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/jonghyeons#gh-light-mode-only">
-        <img src="https://github-readme-stats.vercel.app/api?username=jonghyeons&count_private=true&show_icons=true&hide=stars"/> 
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonghyeons&hide=makefile"/>
-      </a>
-      <a href="https://github.com/jonghyeons#gh-dark-mode-only">
-        <img src="https://github-readme-stats.vercel.app/api?username=jonghyeons&count_private=true&show_icons=true&theme=tokyonight&hide=stars"/> 
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonghyeons&hide=makefile&theme=tokyonight"/>
-      </a>
-    </td>
-  </tr>
-  <tr></tr>
-  <tr>
-    <td>
-      <a href="https://github.com/jonghyeons#gh-light-mode-only">
-        <img src="https://raw.githubusercontent.com/jonghyeons/jonghyeons/output/github-contribution-grid-snake-default.svg#gh-light-mode-only"/>
-      </a>
-      <a href="https://github.com/jonghyeons#gh-dark-mode-only">
-        <img src="https://raw.githubusercontent.com/jonghyeons/jonghyeons/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
-      </a>
-    </td>
-  </tr>
-</table>
+I'm interested in **distributed systems, cloud infrastructure, and developer tools**.
+
+---
+
+## 🧑‍💻 About Me
+
+* Backend Engineer with a focus on **Go**
+* Building and operating backend services in **Ad-Tech**
+* Interested in **distributed systems & scalable architecture**
+* Enjoy learning by building things and exploring how systems work under the hood
+
+---
+
+## 🛠️ Tech Stack
+
+**Language**
+
+`Go` `C#` `Python`
+
+**Backend**
+
+`Gin` `Fiber` `Redis`
+
+**Infrastructure**
+
+`AWS` `Docker` `Elastic Beanstalk`
+
+**Database & Search**
+
+`MySQL` `MSSQL` `Redis` `OpenSearch`
+
+---
+
+## 🚀 Projects
+
+### [photopic](https://github.com/jonghyeons/photopic)
+
+A terminal-based JPG / RAW file sorter written in Go.
+
+* Built as a practical developer tool
+* Focused on fast and simple file organization
+* Written in Go
+
+### [go-distributed-service](https://github.com/jonghyeons/go-distributed-service)
+
+A study project exploring distributed services with Go.
+
+### [go-design-pattern](https://github.com/jonghyeons/go-design-pattern)
+
+Design patterns implemented and studied with Go.
+
+---
+
+## 🌱 Currently Interested In
+
+* Distributed Systems
+* High-performance Backend
+* Cloud Infrastructure
+* Observability
+* AI-assisted Development
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jonghyeons\&show_icons=true\&hide_border=true)
+
+---
+
+## 📫 Contact
+
+Feel free to reach out if you'd like to talk about **backend engineering, Go, distributed systems, or interesting technical problems**.
