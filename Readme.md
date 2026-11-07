@@ -25,7 +25,7 @@ I'm interested in **distributed systems, cloud infrastructure, and developer too
 
 **Backend**
 
-`Gin` `Fiber` `Redis`
+`Gin` `Fiber`
 
 **Infrastructure**
 
